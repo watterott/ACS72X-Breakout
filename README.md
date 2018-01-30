@@ -17,7 +17,3 @@ Breakout with AllegroMicro ACS724 or ACS725 Hall-Effect Current Sensor.
 * [10A DC - ACS725 (3V3)](http://www.watterott.com/en/ACS725-Current-Sensor-Breakout-10A-DC)
 * [20A AC - ACS725 (3V3)](http://www.watterott.com/en/ACS725-Current-Sensor-Breakout-20A-AC)
 * [30A AC - ACS725 (3V3)](http://www.watterott.com/en/ACS725-Current-Sensor-Breakout-30A-AC)
-
-
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/ACS72X-Breakout/tree/master/hardware)
