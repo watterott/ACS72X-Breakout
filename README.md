@@ -7,4 +7,5 @@ Breakout with AllegroMicro ACS724 or ACS725 Hall-Effect Current Sensor.
 * Differential Hall sensing rejects common-mode fields
 * Integrated digital temperature compensation circuitry allows for near closed loop accuracy over temperature in an open-loop sensor
 * Output voltage proportional to AC or DC current
-* **[Documentation on learn.watterott.com](http://learn.watterott.com/sensors/acs72x/)**
+* Open-Source and released under the [Creative Commons Attribution Share-Alike License](https://creativecommons.org/licenses/by-sa/4.0/).
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
